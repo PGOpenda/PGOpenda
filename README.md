@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Welcome to my little corner of the internet! I'm a software developer with a passion for creating magic on both the front and back ends of the web. I also have a not-so-secret hobby of diving into the blockchain world—because who doesn’t love a little decentralized fun? (For anyone wondering I am from Kenya 🇰🇪)</p>
+<p align="left">Welcome to my little corner of the internet! I'm a software developer with a passion for creating magic on both the front and back ends of the web. I also have a not-so-secret hobby of diving into the blockchain world—because who doesn’t love a little decentralized fun?</p>
 
 ###
 
