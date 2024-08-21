@@ -10,10 +10,10 @@
 
 ###
 
-<p align="left">
-* Frontend: Crafting pixel-perfect, user-friendly interfaces that don’t just look good, but feel good to use. If you've ever fallen in love with a button, it might have been one of mine.<br><br>
-* Backend: Ensuring that the logic behind the scenes runs smoother than your morning coffee. Because nobody likes a server that crashes harder than your Monday motivation.<br><br>
-* Blockchain: Occasionally, I like to venture into the wild west of blockchain technology, where I tinker with smart contracts and decentralized applications. It’s like coding, but with extra nerd cred.</p>
+
+- Frontend: Crafting pixel-perfect, user-friendly interfaces that don’t just look good, but feel good to use. If you've ever fallen in love with a button, it might have been one of mine.<br><br>
+- Backend: Ensuring that the logic behind the scenes runs smoother than your morning coffee. Because nobody likes a server that crashes harder than your Monday motivation.<br><br>
+- Blockchain: Occasionally, I like to venture into the wild west of blockchain technology, where I tinker with smart contracts and decentralized applications. It’s like coding, but with extra nerd cred.
 
 ###
 
@@ -21,10 +21,10 @@
 
 ###
 
-<p align="left">
-* I can spend hours tweaking CSS, just to make that one button absolutely perfect.<br><br>
-* My keyboard and I are in a committed relationship. It’s complicated with the mouse.<br><br>
-* Coffee is my lifeblood. If you see me without a cup, something’s terribly wrong.</p>
+
+- I can spend hours tweaking CSS, just to make that one button absolutely perfect.<br><br>
+- My keyboard and I are in a committed relationship. It’s complicated with the mouse.<br><br>
+- Coffee is my lifeblood. If you see me without a cup, something’s terribly wrong.
 
 ###
 
